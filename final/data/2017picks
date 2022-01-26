@@ -1,0 +1,63 @@
+,Rk,Pk,Tm,Player,College,Yrs,G,MP,PTS,TRB,AST,FG%,3P%
+0,1,1,PHI,Markelle Fultz,Washington,3,97,2493,1027,326,446,.456,.256
+1,2,2,LAL,Lonzo Ball,UCLA,3,155,5020,1688,959,1023,.393,.343
+2,3,3,BOS,Jayson Tatum,Duke,3,218,6936,3745,1297,470,.456,.399
+3,4,4,PHO,Josh Jackson,Kansas,3,174,4304,2110,756,333,.417,.298
+4,5,5,SAC,De'Aaron Fox,Kentucky,3,199,5998,3163,689,1214,.448,.335
+5,6,6,ORL,Jonathan Isaac,Florida State,3,134,3481,1249,732,142,.432,.328
+6,7,7,MIN,Lauri Markkanen,Arizona,3,170,5194,2744,1291,228,.430,.356
+7,8,8,NYK,Frank Ntilikina,,3,178,3797,1066,385,543,.366,.311
+8,9,9,DAL,Dennis Smith,NC State,3,156,4094,1957,493,708,.400,.314
+9,10,10,SAC,Zach Collins,Gonzaga,3,146,2487,831,557,129,.442,.324
+10,11,11,CHO,Malik Monk,Kentucky,3,191,3281,1638,360,322,.395,.322
+11,12,12,DET,Luke Kennard,Duke,3,164,3822,1613,457,353,.441,.402
+12,13,13,DEN,Donovan Mitchell,Louisville,3,219,7401,4970,888,877,.440,.355
+13,14,14,MIA,Bam Adebayo,Kentucky,3,216,5516,2259,1661,618,.558,.114
+14,15,15,POR,Justin Jackson,UNC,3,207,4049,1365,541,219,.433,.325
+15,16,16,CHI,Justin Patton,Creighton,3,9,49,16,11,5,.368,.167
+16,17,17,MIL,D.J. Wilson,Michigan,3,101,1233,401,300,77,.416,.332
+17,18,18,IND,T.J. Leaf,UCLA,3,136,1174,453,271,39,.497,.356
+18,19,19,ATL,John Collins,Wake Forest,3,176,4977,2850,1552,279,.571,.369
+19,20,20,POR,Harry Giles,Duke,2,96,1399,673,381,134,.524,.000
+20,21,21,OKC,Terrance Ferguson,,3,185,3864,911,261,136,.412,.340
+21,22,22,BRK,Jarrett Allen,Texas,3,216,5184,2141,1665,244,.607,.169
+22,23,23,TOR,OG Anunoby,Indiana,3,204,4730,1582,722,201,.480,.362
+23,24,24,UTA,Tyler Lydon,Syracuse,2,26,96,23,18,6,.500,.400
+24,25,25,ORL,Anžejs Pasečņiks,,1,24,405,144,99,17,.528,.000
+25,26,26,POR,Caleb Swanigan,Purdue,3,75,655,169,218,56,.438,.118
+26,27,27,BRK,Kyle Kuzma,Utah,3,201,6042,3224,1107,388,.449,.327
+27,28,28,LAL,Tony Bradley,UNC,3,62,600,258,242,19,.626,.500
+28,29,29,SAS,Derrick White,Colorado,3,145,3335,1350,466,478,.470,.359
+29,30,30,UTA,Josh Hart,Villanova,3,187,4739,1600,881,267,.428,.353
+30,,,,Round 2,,Totals,Shooting,Per Game,Advanced,,,,
+31,Rk,Pk,Tm,Player,College,Yrs,G,MP,PTS,TRB,AST,FG%,3P%
+32,31,31,CHO,Frank Jackson,Duke,2,112,1825,780,205,110,.416,.318
+33,32,32,PHO,Davon Reed,Miami (FL),2,31,289,75,45,16,.307,.310
+34,33,33,ORL,Wesley Iwundu,Kansas State,3,175,3063,805,434,176,.413,.307
+35,34,34,SAC,Frank Mason,Kansas,3,96,1472,622,181,242,.387,.294
+36,35,35,ORL,Ivan Rabb,California,2,85,1237,485,364,86,.555,.200
+37,36,36,PHI,Jonah Bolden,,2,51,686,217,174,40,.486,.340
+38,37,37,BOS,Semi Ojeleye,SMU,3,190,2635,572,371,74,.390,.333
+39,38,38,CHI,Jordan Bell,Oregon,3,154,1853,578,472,194,.563,.222
+40,39,39,PHI,Jawun Evans,Oklahoma State,2,56,843,237,96,110,.345,.263
+41,40,40,NOP,Dwayne Bacon,Florida State,3,135,2159,715,313,137,.403,.345
+42,41,41,ATL,Tyler Dorsey,Oregon,2,104,1672,701,243,135,.389,.350
+43,42,42,UTA,Thomas Bryant,Indiana,3,125,2469,1240,731,169,.604,.344
+44,43,43,HOU,Isaiah Hartenstein,,2,51,487,160,137,33,.593,.182
+45,44,44,NYK,Damyean Dotson,Oregon,3,165,3314,1282,437,223,.419,.361
+46,45,45,HOU,Dillon Brooks,Oregon,3,165,4531,2053,501,279,.418,.364
+47,46,46,PHI,Sterling Brown,SMU,3,157,2475,812,492,155,.418,.344
+48,47,47,IND,Ike Anigbogu,UCLA,2,14,36,13,12,1,.333,
+49,48,48,MIL,Sindarius Thornwell,South Carolina,2,137,1469,344,184,86,.415,.342
+50,49,49,DEN,Vlatko Čančar,,1,14,45,17,10,3,.400,.167
+51,50,50,PHI,Mathias Lessort,,,,,,,,,
+52,51,51,DEN,Monte Morris,Iowa State,3,150,3397,1410,308,534,.480,.398
+53,52,52,NOP,Edmond Sumner,Xavier,3,49,557,182,62,49,.398,.262
+54,53,53,BOS,Kadeem Allen,Arizona,3,47,640,258,71,109,.435,.349
+55,54,54,PHO,Alec Peters,Valparaiso,1,20,225,82,37,12,.378,.310
+56,55,55,UTA,Nigel Williams-Goss,Gonzaga,1,9,28,4,5,5,.143,.000
+57,56,56,BOS,Jabari Bird,California,1,13,115,39,19,8,.577,.429
+58,57,57,BRK,Aleksandar Vezenkov,,,,,,,,,
+59,58,58,NYK,Ognjen Jaramaz,,,,,,,,,
+60,59,59,SAS,Jaron Blossomgame,Clemson,1,27,439,114,98,13,.443,.256
+61,60,60,ATL,Alpha Kaba,,,,,,,,,
